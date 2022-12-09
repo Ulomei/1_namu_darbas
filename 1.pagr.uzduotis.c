@@ -1,7 +1,4 @@
-//LSP numeris 2213720
-//gabriele.drungilaite@mif.stud.vu.lt
 //Uzduoties nr. - 1
-//Varianto nr. - 13
 //Salyga - Ivedineti sveiku skaiciu seka tol, kol ji nemazeja. Isvesti sekos nariu skaiciu ir ju aritmetini vidurki.
 
 #include <stdio.h>
